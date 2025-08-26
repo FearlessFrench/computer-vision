@@ -1,5 +1,4 @@
 # Computer Vision
-Get started with Python, if you have no coding experience.
 <pre>
 <b>Builds on</b>
 <ins>Intro to Deep Learning</ins>
